@@ -1,0 +1,5 @@
+D:\Coursera\Homework\Project Increment 1\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+D:\Coursera\Homework\Project Increment 2\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+D:\Coursera\Homework\Project Increment 3\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+D:\Coursera\Homework\Project Increment 4\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+D:\Coursera\Homework\Project Increment 5\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
